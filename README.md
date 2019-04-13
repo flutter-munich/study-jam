@@ -1,9 +1,10 @@
 # Flutter Independence Coding Night
 
+## Event Description
+
 > Thursday, July 4, 2019
 >
 > **RVSP for the event on [meetup.com](https://www.meetup.com/Flutter-Munich/events/260153576/)**.
-
 
 I’d like to invite all of you to our first-ever coding night. It’s going to be a very laid-back event, with great conversations, drinks, and food. The concept is simple: we meet and we build beautiful apps together.
 
@@ -28,4 +29,16 @@ I highly recommend you complete the Flutter installation guide and the Test driv
 📍 The event's location, food, and drinks are provided by [SinnerSchrader Deutschland GmbH](https://github.com/sinnerschrader/).
 
 📍 [Schackstraße 3, München](https://www.google.com/maps/search/?api=1&query=48.152073%2C11.583761)
+
+## Awesome Flutter tutorials
+
+TODO: organize the tutorial list better so that people know where to start depending on their level
+
+* [Codelabs](https://flutter.dev/docs/codelabs)
+* [Cookbook](https://flutter.dev/docs/cookbook)
+* [Tutorials](https://flutter.dev/docs/reference/tutorials)
+
+* [`flutter/samples`](https://github.com/flutter/samples/blob/master/INDEX.md)
+* [`awesome-flutter`](https://github.com/Solido/awesome-flutter) list
+
 
