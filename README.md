@@ -1,8 +1,8 @@
-# Flutter Independence Coding Night
+# Flutter Study Jam
 
 ## Event Description
 
-> Thursday, July 4, 2019
+> Thursday, July ?????, 2019
 >
 > **RVSP for the event on [meetup.com](https://www.meetup.com/Flutter-Munich/events/260153576/)**.
 
