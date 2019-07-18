@@ -2,19 +2,23 @@
 
 ## Event Description
 
-> Thursday, July ?????, 2019
+> Thursday, July 18, 2019 - 6:00 PM to 9:00 PM
 >
-> **RVSP for the event on [meetup.com](https://www.meetup.com/Flutter-Munich/events/260153576/)**.
+> **For more info, go to [meetup.com](https://www.meetup.com/Flutter-Munich/events/260153576/)**.
 
-I’d like to invite all of you to our first-ever coding night. It’s going to be a very laid-back event, with great conversations, drinks, and food. The concept is simple: we meet and we build beautiful apps together.
+I’d like to invite all of you to our first-ever study jam/coding night. It’s going to be a very laid-back event, with great conversations, drinks, and food. The concept is simple: we meet and we build beautiful apps together.
 
-* 👨‍💻 We are going to prepare a list of awesome tutorials, so you can create something on your own, all the while we are there to help you in case you get stuck.
-* 🐧 You can bring your own project or work on open-source projects.
-* 🚵‍♀️ I’m working on a new Flutter tutorial site which will debut at this event, so if you feel adventurous, you can go through one of them and give me feedback.
-* ❓ You can come with questions, we’ll do our best to help you with any issue you bring.
-* 🎤 At the end of the event, you’ll have the opportunity to show to the rest of us what you worked on (presenting is optional, but encouraged).
+Flutter is Google’s portable UI toolkit to build beautiful native apps on iOS and Android from a single codebase. Flutter Study Jams are a great opportunity to get together to learn and practice this technology in person.
+
+* 👨‍💻We prepared a list of awesome tutorials, so you can create something on your own, all the while we are there to help you in case you get stuck.
+* 🐧You can also bring your own ideas or work on open-source projects.
+* ❓You can come with questions, we’ll do our best to help you with any issue you bring.
+* 🎤At the end of the event, you’ll have the opportunity to show to the rest of us what you worked on (presenting is optional, but encouraged).
 
 I highly recommend you complete the Flutter installation guide and the Test drive before the event. Installing everything (Xcode, Android Studio, emulators, simulators, enabling development mode on your phone) can take some time, especially if you are doing it the first time. You can get the most out of this event if you successfully run the Flutter example app (click on floating action button to increment counter) on either an emulator/simulator or on a physical device. If you have Flutter installed on your computer, check your version and upgrade if necessary.
+
+The event is best for people who already know how to code in at least one programming language (so you know what’s a loop, object, if-else ,etc...).
+
 
 **IMPORTANT**
 
@@ -32,13 +36,4 @@ I highly recommend you complete the Flutter installation guide and the Test driv
 
 ## Awesome Flutter tutorials
 
-TODO: organize the tutorial list better so that people know where to start depending on their level
-
-* [Codelabs](https://flutter.dev/docs/codelabs)
-* [Cookbook](https://flutter.dev/docs/cookbook)
-* [Tutorials](https://flutter.dev/docs/reference/tutorials)
-
-* [`flutter/samples`](https://github.com/flutter/samples/blob/master/INDEX.md)
-* [`awesome-flutter`](https://github.com/Solido/awesome-flutter) list
-
-
+You'll find a list of tutorials I selected for this event in the [`dartsidedev/learning-flutter`](https://github.com/dartsidedev/learning-flutter) repository.
