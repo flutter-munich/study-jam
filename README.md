@@ -34,6 +34,6 @@ The event is best for people who already know how to code in at least one progra
 
 📍 [Schackstraße 3, München](https://www.google.com/maps/search/?api=1&query=48.152073%2C11.583761)
 
-## Awesome Flutter tutorials
+## Flutter tutorials
 
 You'll find a list of tutorials I selected for this event in the [`dartsidedev/learning-flutter`](https://github.com/dartsidedev/learning-flutter) repository.
