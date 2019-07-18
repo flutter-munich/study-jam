@@ -37,3 +37,7 @@ The event is best for people who already know how to code in at least one progra
 ## Flutter tutorials
 
 You'll find a list of tutorials I selected for this event in the [`dartsidedev/learning-flutter`](https://github.com/dartsidedev/learning-flutter) repository.
+
+## Share your app
+
+[Share the app you create today](https://github.com/flutter-munich/study-jam/issues/new?assignees=vargavince91&labels=&template=my-project.md&title=)
