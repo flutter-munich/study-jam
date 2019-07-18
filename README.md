@@ -1,5 +1,13 @@
 # Flutter Study Jam
 
+## Flutter tutorials
+
+You'll find a list of tutorials I selected for this event in the [`dartsidedev/learning-flutter`](https://github.com/dartsidedev/learning-flutter) repository.
+
+## Share your app
+
+[Share the app you create today](https://github.com/flutter-munich/study-jam/issues/new?assignees=vargavince91&labels=&template=my-project.md&title=)
+
 ## Event Description
 
 > Thursday, July 18, 2019 - 6:00 PM to 9:00 PM
@@ -33,11 +41,3 @@ The event is best for people who already know how to code in at least one progra
 📍 The event's location, food, and drinks are provided by [SinnerSchrader Deutschland GmbH](https://github.com/sinnerschrader/).
 
 📍 [Schackstraße 3, München](https://www.google.com/maps/search/?api=1&query=48.152073%2C11.583761)
-
-## Flutter tutorials
-
-You'll find a list of tutorials I selected for this event in the [`dartsidedev/learning-flutter`](https://github.com/dartsidedev/learning-flutter) repository.
-
-## Share your app
-
-[Share the app you create today](https://github.com/flutter-munich/study-jam/issues/new?assignees=vargavince91&labels=&template=my-project.md&title=)
